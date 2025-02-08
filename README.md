@@ -2,10 +2,6 @@
 
 I'm a passionate developer and a lifelong learner with a love for creating elegant, efficient, and impactful software. Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/illustration.png" alt="Coding Illustration" width="500">
-</p>
-
 ## About Me
 
 - 🔭 I’m currently working on **Fancy GitHub Client**
@@ -40,7 +36,6 @@ I'm a passionate developer and a lifelong learner with a love for creating elega
 <p align="center">
   <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/yourusername/yourrepository?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/trophy/yourusername?style=for-the-badge" alt="GitHub Trophy">
 </p>
 
 ## Let's Connect!
